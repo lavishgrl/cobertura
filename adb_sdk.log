@@ -1,0 +1,60 @@
+2021-12-20 11:20:28.550 [INFO] Log sdk version: 2, 1, 0, 20-d-4a5e81c 
+2021-12-20 11:20:28.550 [INFO] Adb Sdk version: 2,0,0,36-D-f0c46fa. 
+2021-12-20 11:21:12.660 [INFO] AdbStartDaemon Enter ... 
+2021-12-20 11:21:12.660 [INFO] AdbKillDaemon Enter ... 
+2021-12-20 11:21:15.374 [INFO] AdbKillDaemon Leave, return 0. 
+2021-12-20 11:21:24.557 [INFO] AdbStartDaemon Leave, return 0. 
+2021-12-20 11:21:25.034 [INFO] AdbGetPhoneSoftVersion Enter. 
+2021-12-20 11:21:25.097 [INFO] AdbGetPhoneSoftVersion Leave, return 0. 
+2021-12-20 11:21:25.098 [INFO] AdbGetPhoneManufacturer Enter. 
+2021-12-20 11:21:25.145 [INFO] AdbGetPhoneManufacturer Leave, return 0. 
+2021-12-20 11:21:25.145 [INFO] AdbGetPhoneProductModel Enter. 
+2021-12-20 11:21:25.194 [INFO] AdbGetPhoneProductModel Leave, return 0. 
+2021-12-20 11:23:10.601 [INFO] AdbGetPhoneSoftVersion Enter. 
+2021-12-20 11:23:11.057 [INFO] AdbGetPhoneSoftVersion Leave, return 0. 
+2021-12-20 11:23:11.057 [INFO] AdbGetPhoneManufacturer Enter. 
+2021-12-20 11:23:11.520 [INFO] AdbGetPhoneManufacturer Leave, return 0. 
+2021-12-20 11:23:11.521 [INFO] AdbGetPhoneProductModel Enter. 
+2021-12-20 11:23:11.960 [INFO] AdbGetPhoneProductModel Leave, return 0. 
+2021-12-20 11:23:44.739 [INFO] AdbGetPhoneSoftVersion Enter. 
+2021-12-20 11:23:44.887 [INFO] AdbGetPhoneSoftVersion Leave, return 0. 
+2021-12-20 11:23:44.887 [INFO] AdbGetPhoneManufacturer Enter. 
+2021-12-20 11:23:44.972 [INFO] AdbGetPhoneManufacturer Leave, return 0. 
+2021-12-20 11:23:44.973 [INFO] AdbGetPhoneProductModel Enter. 
+2021-12-20 11:23:45.364 [INFO] AdbGetPhoneProductModel Leave, return 0. 
+2021-12-20 11:27:01.788 [INFO] AdbKillDaemon Enter ... 
+2021-12-20 11:27:02.575 [INFO] AdbKillDaemon Leave, return 0. 
+2021-12-20 11:27:05.538 [INFO] AdbKillDaemon Enter ... 
+2021-12-20 11:27:08.071 [INFO] AdbKillDaemon Leave, return 0. 
+2021-12-20 11:30:17.262 [INFO] Log sdk version: 2, 1, 0, 20-d-4a5e81c 
+2021-12-20 11:30:17.262 [INFO] Adb Sdk version: 2,0,0,36-D-f0c46fa. 
+2021-12-20 11:30:33.945 [INFO] AdbStartDaemon Enter ... 
+2021-12-20 11:30:33.945 [INFO] AdbKillDaemon Enter ... 
+2021-12-20 11:30:36.736 [INFO] AdbKillDaemon Leave, return 0. 
+2021-12-20 11:30:42.451 [INFO] AdbStartDaemon Leave, return 0. 
+2021-12-20 11:32:07.159 [INFO] AdbGetPhoneSoftVersion Enter. 
+2021-12-20 11:32:07.281 [INFO] AdbGetPhoneSoftVersion Leave, return 0. 
+2021-12-20 11:32:07.281 [INFO] AdbGetPhoneManufacturer Enter. 
+2021-12-20 11:32:07.368 [INFO] AdbGetPhoneManufacturer Leave, return 0. 
+2021-12-20 11:32:07.369 [INFO] AdbGetPhoneProductModel Enter. 
+2021-12-20 11:32:07.417 [INFO] AdbGetPhoneProductModel Leave, return 0. 
+2021-12-20 11:33:34.935 [INFO] AdbKillDaemon Enter ... 
+2021-12-20 11:33:35.774 [INFO] AdbKillDaemon Leave, return 0. 
+2021-12-20 11:33:38.231 [INFO] AdbKillDaemon Enter ... 
+2021-12-20 11:33:40.654 [INFO] AdbKillDaemon Leave, return 0. 
+2021-12-20 12:04:02.878 [INFO] Log sdk version: 2, 1, 0, 20-d-4a5e81c 
+2021-12-20 12:04:02.878 [INFO] Adb Sdk version: 2,0,0,36-D-f0c46fa. 
+2021-12-20 12:04:09.654 [INFO] AdbStartDaemon Enter ... 
+2021-12-20 12:04:09.654 [INFO] AdbKillDaemon Enter ... 
+2021-12-20 12:04:11.996 [INFO] AdbKillDaemon Leave, return 0. 
+2021-12-20 12:04:17.251 [INFO] AdbStartDaemon Leave, return 0. 
+2021-12-20 12:10:41.027 [INFO] AdbKillDaemon Enter ... 
+2021-12-20 12:10:41.476 [INFO] AdbKillDaemon Leave, return 0. 
+2021-12-20 12:10:43.625 [INFO] AdbKillDaemon Enter ... 
+2021-12-20 12:10:46.143 [INFO] AdbKillDaemon Leave, return 0. 
+2021-12-20 12:11:25.479 [INFO] Log sdk version: 2, 1, 0, 20-d-4a5e81c 
+2021-12-20 12:11:25.479 [INFO] Adb Sdk version: 2,0,0,36-D-f0c46fa. 
+2021-12-20 12:11:32.000 [INFO] AdbStartDaemon Enter ... 
+2021-12-20 12:11:32.000 [INFO] AdbKillDaemon Enter ... 
+2021-12-20 12:11:34.463 [INFO] AdbKillDaemon Leave, return 0. 
+2021-12-20 12:11:39.619 [INFO] AdbStartDaemon Leave, return 0. 
